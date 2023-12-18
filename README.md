@@ -5,7 +5,6 @@ I am an aspiring front-end developer
 ------------------------------------
 
 #WomenInTech || GIS Analyst || Aspiring Front End Developer|| Currently studying Software Engineering @holbertonschool @ALX\_africa
-<img align="right" alt="coding" width="400" src="https://lexica.art/prompt/aaf67189-fce8-4d39-8a28-45942030198b">
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [sindiswamsubo71@gmail.com](mailto:sindiswamsubo71@gmail.com)
