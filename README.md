@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am an aspiring Cybersecurity SOC Analyst
 ------------------------------------------
 
-#WomenInTech || SOC Analyst || Aspiring SOC Analyst|| Currently studying Cybersecurity Analyst at CTU Training Solutions.
+#BlueTeam || SOC Analyst || Aspiring SOC Analyst|| Currently studying Cybersecurity Analyst at CTU Training Solutions.
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [sindiswamsubo71@gmail.com](mailto:sindiswamsubo71@gmail.com)
