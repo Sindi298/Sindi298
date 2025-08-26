@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sindi
 =============================================================================================================================
 
-I am an aspiring front-end developer
-------------------------------------
+I am an aspiring Cybersecurity SOC Analyst
+------------------------------------------
 
-#WomenInTech || GIS Analyst || Aspiring Front End Developer|| Currently studying Software Engineering @holbertonschool @ALX\_africa
+#WomenInTech || SOC Analyst || Aspiring SOC Analyst|| Currently studying Cybersecurity Analyst at CTU Training Solutions.
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [sindiswamsubo71@gmail.com](mailto:sindiswamsubo71@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Networking, SIEM tools,
 * ⚡  I love Parkrun!!
 
 ### Skills
