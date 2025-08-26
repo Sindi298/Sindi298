@@ -13,7 +13,8 @@ I am an aspiring Cybersecurity SOC Analyst
 
   <h2>👨‍💻 Software Development Projects:</h2>
   - <b>Bash and Cmd prmt Practice (Basic Beginner)</b>
-  Practicing Shell basics, Permissions, Redirections, Variables, Expansions(https://github.com/Sindi298/alx-system_engineering-devops)
+ [Practicing Shell basics, Permissions, Redirections, Variables, Expansions](https://github.com/Sindi298/alx-system_engineering-devops)
+
 
 ### Skills
 
