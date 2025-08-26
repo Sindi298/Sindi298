@@ -20,6 +20,9 @@ I am an aspiring Cybersecurity SOC Analyst
   *  .[Simple Shell Project](https://github.com/Sindi298/simple_shell)
     
   <h2>👨‍💻 Cybersecurity Analysis Projects:</h2>
+* <b>Career Switch to Cybersecurity (Network Fundamentals)</b>
+  *  .[Networking labs]
+  
 
 
 ### Skills
