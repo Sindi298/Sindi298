@@ -12,6 +12,8 @@ I am an aspiring Cybersecurity SOC Analyst
 * ⚡  I love Parkrun!!
 
   <h2>👨‍💻 Software Development Projects:</h2>
+  - <b>Bash and Cmd prmt Practice (Basic Beginner)</b>
+  [basic shell]
 
 ### Skills
 
