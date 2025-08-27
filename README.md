@@ -19,7 +19,7 @@ I am an aspiring Cybersecurity SOC Analyst
 * <b>Simple Shell Project</b>
   *  .[Simple Shell Project](https://github.com/Sindi298/simple_shell)
     
-  <h2>👨‍💻 Cybersecurity Analysis Projects:</h2>
+  <h2>👨‍💻 Cybersecurity Projects:</h2>
 * <b>Networking Basics (Cisco NetAcademy)</b>
   *  .[Cisco Networking Basics labs]
 * <b>Networking Essesntials (Cisco NetAcademy)</b>
