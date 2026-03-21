@@ -3,7 +3,10 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 
 ## Cybersecurity Analyst | SOC Analyst | Blue Team
 
-Cybersecurity Analyst student actively building SOC fundamentals through hands-on endpoint investigation, LetsDefend alert triage, and PortSwigger web security labs. Passionate about defensive security, threat detection, and incident response.
+Cybersecurity Analyst student actively building SOC fundamentals through 
+hands-on endpoint investigation, LetsDefend alert triage, and independent 
+security research. Passionate about defensive security, threat detection, 
+and incident response.
 
 \#BlueTeam || SOC Analyst || Defensive Security || South Africa 🇿🇦
 
@@ -29,18 +32,30 @@ Cybersecurity Analyst student actively building SOC fundamentals through hands-o
 
 ## 🔵 Cybersecurity Projects
 
-### Endpoint Security
+### SOC Operations & Incident Response
+
+- **[Endpoint Incident Investigation — Opera Malware Analysis](https://github.com/Sindi298/endpoint-incident-investigation)**
+  Real-world endpoint investigation of suspicious files using VirusTotal and sandbox behavioural analysis. Full IR report with IOC documentation, evidence timeline, and remediation steps.
+
+- **[Phishing Email Analysis Case Studies](https://github.com/Sindi298/phishing-analysis-case-studies)**
+  Independent analysis of 5 real-world phishing campaigns sourced from PhishTank. Full IOC extraction, threat intelligence investigation, and MITRE ATT&CK mapping for each campaign.
+
+- **[Malicious Network Traffic Analysis](https://github.com/Sindi298/network-traffic-analysis)**
+  Independent Wireshark analysis of a real malicious PCAP file. C2 beaconing identification, IOC extraction, and full attack timeline reconstruction.
+
+### Security Engineering & Detection
+
+- **[Malware Analysis Lab](https://github.com/Sindi298/malware-analysis-lab)**
+  Isolated malware analysis environment built from scratch. Includes architecture documentation, tool configuration decisions, and dynamic analysis report of a real malware sample.
+
+- **[SOC Home Lab with Custom Detection Rules](https://github.com/Sindi298/soc-home-lab)**
+  Fully functional SOC environment with Windows VM, Sysmon, and SIEM integration. Custom detection rules written in Sigma and mapped to MITRE ATT&CK, validated through simulated attack scenarios.
+
+### Endpoint Security Reference
 - **[Endpoint Security Notes](https://github.com/Sindi298/endpoint-security-notes)**
-  A living reference document built from hands-on endpoint investigation using Process Explorer. Covers Windows process baselines, LOLBins, and IOC identification for SOC triage.
-
-### SOC Operations
-- **[LetsDefend SOC Investigations](https://github.com/Sindi298/letsdefend-soc-investigations)**
-  Real SOC alert investigation writeups from the LetsDefend SOC Analyst learning path. Includes phishing analysis, malware triage, and incident response documentation.
-
-- **[SOC Home Lab](https://github.com/Sindi298/soc-home-lab)**
-  A fully documented SOC home lab environment built from scratch. Covers lab architecture, tool setup, and simulated threat detection scenarios.
-
----
+  Living reference document built from hands-on Process Explorer investigation. Windows process baseline, LOLBins reference, and IOC identification guide for SOC triage.
+```
+```
 
 ## 💻 Software Development Projects
 
@@ -64,6 +79,10 @@ Cybersecurity Analyst student actively building SOC fundamentals through hands-o
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma-Rules-blue)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?logo=virustotal&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?logo=windows&logoColor=white)
 
 ---
 
