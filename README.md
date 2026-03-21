@@ -40,14 +40,6 @@ Cybersecurity Analyst student actively building SOC fundamentals through hands-o
 - **[SOC Home Lab](https://github.com/Sindi298/soc-home-lab)**
   A fully documented SOC home lab environment built from scratch. Covers lab architecture, tool setup, and simulated threat detection scenarios.
 
-### Web Security
-- **[PortSwigger Web Security Labs](https://github.com/Sindi298/portswigger-web-security-labs)**
-  Hands-on web attack analysis covering SQL Injection, XSS, Authentication vulnerabilities, and Access Control — with detection notes from a SOC analyst perspective.
-
-### Defensive Security
-- **[CompTIA Security+ Applied Labs](https://github.com/Sindi298/comptia-securityplus-labs)**
-  Applied defensive security labs including firewall implementation, system hardening, incident response detection, and malware analysis.
-
 ---
 
 ## 💻 Software Development Projects
