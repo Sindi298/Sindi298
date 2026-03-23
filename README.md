@@ -13,7 +13,7 @@ and incident response.
 ---
 
 - 🌍 Based in South Africa
-- 🎓 Studying Occupational Certificate: Cybersecurity Analyst at CTU Training Solutions (NQF Level 5)
+- 🎓 Studying Cybersecurity
 - ✉️ Reach me at [sindiswamsubo71@gmail.com](mailto:sindiswamsubo71@gmail.com)
 - 🧠 Currently learning: CompTIA Network+, SIEM tools, Endpoint Security, Threat Detection
 - 🔭 Working towards: Junior SOC Analyst / Defensive Security roles
