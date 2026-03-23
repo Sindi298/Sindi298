@@ -37,20 +37,6 @@ and incident response.
 - **[Endpoint Incident Investigation — Opera Malware Analysis](https://github.com/Sindi298/endpoint-incident-investigation)**
   Real-world endpoint investigation of suspicious files using VirusTotal and sandbox behavioural analysis. Full IR report with IOC documentation, evidence timeline, and remediation steps.
 
-- **[Phishing Email Analysis Case Studies](https://github.com/Sindi298/phishing-analysis-case-studies)**
-  Independent analysis of 5 real-world phishing campaigns sourced from PhishTank. Full IOC extraction, threat intelligence investigation, and MITRE ATT&CK mapping for each campaign.
-
-- **[Malicious Network Traffic Analysis](https://github.com/Sindi298/network-traffic-analysis)**
-  Independent Wireshark analysis of a real malicious PCAP file. C2 beaconing identification, IOC extraction, and full attack timeline reconstruction.
-
-### Security Engineering & Detection
-
-- **[Malware Analysis Lab](https://github.com/Sindi298/malware-analysis-lab)**
-  Isolated malware analysis environment built from scratch. Includes architecture documentation, tool configuration decisions, and dynamic analysis report of a real malware sample.
-
-- **[SOC Home Lab with Custom Detection Rules](https://github.com/Sindi298/soc-home-lab)**
-  Fully functional SOC environment with Windows VM, Sysmon, and SIEM integration. Custom detection rules written in Sigma and mapped to MITRE ATT&CK, validated through simulated attack scenarios.
-
 ### Endpoint Security Reference
 - **[Endpoint Security Notes](https://github.com/Sindi298/endpoint-security-notes)**
   Living reference document built from hands-on Process Explorer investigation. Windows process baseline, LOLBins reference, and IOC identification guide for SOC triage.
