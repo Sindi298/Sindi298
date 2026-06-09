@@ -42,7 +42,6 @@ and incident response.
   Living reference document built from hands-on Process Explorer investigation. Windows process baseline, LOLBins reference, and IOC identification guide for SOC triage.
 ```
 ```
-### Course Module Projects
 
 ## 💻 Software Development Projects
 
