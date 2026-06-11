@@ -15,7 +15,7 @@ and incident response.
 - 🌍 Based in South Africa
 - 🎓 Studying Cybersecurity
 - ✉️ Reach me at [sindiswamsubo71@gmail.com](mailto:sindiswamsubo71@gmail.com)
-- 🧠 Currently learning: CompTIA Network+, SIEM tools, Endpoint Security, Threat Detection
+- 🧠 Currently learning: MS SC-900, SIEM tools, Endpoint Security, Threat Detection
 - 🔭 Working towards: Junior SOC Analyst / Defensive Security roles
 - ⚡ Fun fact: I love Parkrun!
 
@@ -34,7 +34,7 @@ and incident response.
 
 ### SOC Operations & Incident Response
 
-- **[Endpoint Incident Investigation — Opera Malware Analysis](https://github.com/Sindi298/endpoint-incident-investigation)**
+- **[Endpoint Incident Investigation - Opera Malware Analysis](https://github.com/Sindi298/endpoint-incident-investigation)**
   Real-world endpoint investigation of suspicious files using VirusTotal and sandbox behavioural analysis. Full IR report with IOC documentation, evidence timeline, and remediation steps.
 
 - **[Vulnerability Assessment & Intrusion Detection](https://github.com/Sindi298/vulnerability---assessment---lab)**
@@ -42,7 +42,7 @@ and incident response.
   Four-part lab across a dual-VM environment (Kali Linux / Windows 10). Network reconnaissance with Nmap, live traffic analysis with Wireshark, vulnerability scanning with OpenVAS, and signature-based intrusion detection with Snort.
 
 - **[Database Security & Automated Data Pipeline](https://github.com/Sindi298/database-security-sql-python)**
-  Database Security — SQL & Python
+  Database Security - SQL & Python
   Cybersecurity-domain relational database designed and queried in SSMS — covering JOINs, DML, aggregation, and access control analysis. Python web scraping pipeline built with BeautifulSoup to automate structured data extraction and CSV export.
 
 - **[Enterprise Network Design & Security Configuration](https://github.com/Sindi298/enterprise-network-security)**
