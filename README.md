@@ -37,6 +37,19 @@ and incident response.
 - **[Endpoint Incident Investigation — Opera Malware Analysis](https://github.com/Sindi298/endpoint-incident-investigation)**
   Real-world endpoint investigation of suspicious files using VirusTotal and sandbox behavioural analysis. Full IR report with IOC documentation, evidence timeline, and remediation steps.
 
+- **[Vulnerability Assessment & Intrusion Detection](https://github.com/Sindi298/vulnerability---assessment---lab)**
+  Vulnerability Assessment Lab
+  Four-part lab across a dual-VM environment (Kali Linux / Windows 10). Network reconnaissance with Nmap, live traffic analysis with Wireshark, vulnerability scanning with OpenVAS, and signature-based intrusion detection with Snort.
+
+- **[Database Security & Automated Data Pipeline](https://github.com/Sindi298/database-security-sql-python)**
+  Database Security — SQL & Python
+  Cybersecurity-domain relational database designed and queried in SSMS — covering JOINs, DML, aggregation, and access control analysis. Python web scraping pipeline built with BeautifulSoup to automate structured data extraction and CSV export.
+
+- **[Enterprise Network Design & Security Configuration](https://github.com/Sindi298/enterprise-network-security)**
+  Enterprise Network Security
+  Small enterprise network designed and configured from scratch in Cisco Packet Tracer. Router interface setup, static routing, WPA2-PSK wireless security, 802.1x port-based authentication, and DHCP configuration. Assessment score: 39/45.
+  
+
 ### Endpoint Security Reference
 - **[Endpoint Security Notes](https://github.com/Sindi298/endpoint-security-notes)**
   Living reference document built from hands-on Process Explorer investigation. Windows process baseline, LOLBins reference, and IOC identification guide for SOC triage.
