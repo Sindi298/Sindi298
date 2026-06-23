@@ -26,7 +26,7 @@ and incident response.
 | Certification | Issuer | Status | Verify |
 |--------------|--------|--------|--------|
 | CompTIA Security+ | CompTIA | ✅ Certified | [View Certificate](https://www.credly.com/badges/7e158615-ab8e-4b28-8063-2f2a8f64a9df/public_url) |
-| MS SC-900 | Microsoft Security Fundamentals | 🔄 In Progress | — |
+| MS SC-900 Microsoft Security Fundamentals | Microsoft | ✅ Certified | [View Certificate](https://learn.microsoft.com/api/credentials/share/en-gb/SindiswaMsubo-9862/CEEE06BE21D6493D?sharingId=FFF37EB4A0E9AAA5) |
 
 ---
 
