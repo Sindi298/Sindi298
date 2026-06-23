@@ -43,7 +43,7 @@ and incident response.
 
 - **[Database Security & Automated Data Pipeline](https://github.com/Sindi298/database-security-sql-python)**
   Database Security - SQL & Python
-  Cybersecurity-domain relational database designed and queried in SSMS — covering JOINs, DML, aggregation, and access control analysis. Python web scraping pipeline built with BeautifulSoup to automate structured data extraction and CSV export.
+  Cybersecurity-domain relational database designed and queried in SSMS - covering JOINs, DML, aggregation, and access control analysis. Python web scraping pipeline built with BeautifulSoup to automate structured data extraction and CSV export.
 
 - **[Enterprise Network Design & Security Configuration](https://github.com/Sindi298/enterprise-network-security)**
   Enterprise Network Security
